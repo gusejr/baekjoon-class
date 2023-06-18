@@ -1,0 +1,6 @@
+﻿  1629.cpp
+C:\Users\ASUS\Desktop\코딩 파일\CLASS 3\CLASS3\1629.cpp(16,12): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\Desktop\코딩 파일\CLASS 3\CLASS3\1629.cpp(17,9): warning C4101: 'remainder' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\Desktop\코딩 파일\CLASS 3\CLASS3\1629.cpp(16,9): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\Desktop\코딩 파일\CLASS 3\CLASS3\1629.cpp(16,15): warning C4101: 'C' :참조되지 않은 지역 변수입니다.
+  CLASS3.vcxproj -> C:\Users\ASUS\Desktop\코딩 파일\CLASS 3\Debug\CLASS3.exe
